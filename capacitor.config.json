@@ -1,0 +1,16 @@
+{
+  "appId": "com.yourname.abysssurvivor",
+  "appName": "深渊幸存者",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#050508"
+    }
+  },
+  "ios": {
+    "contentInset": "always",
+    "scheme": "https"
+  }
+}
